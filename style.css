@@ -1,0 +1,100 @@
+
+.container {
+  margin-top: 60px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #E5F9DB;
+  padding: 25px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 6px #E5F9DB;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.form-group{
+  display: block;
+  margin: 7px;
+}
+.label{
+  display: block;
+}
+label{
+  margin-bottom: 3px;
+  color: #83764F;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+input{
+  border: none;
+  border-radius: 7px;
+  border-color: #A2A378;
+}
+input:focus{
+  background-color: #A0D8B3;
+  outline: none;
+  border: none;
+}
+h2{
+  text-align: center;
+  color: #83764F;
+}
+button{
+  cursor: pointer;
+  border-radius:5px;
+  margin-top: 15px;
+  padding: 9px;
+  border-style: none;
+}
+#hitung{
+  color: white;
+  background-color: #A2A378 ;
+  border-color: #A2A378 ;
+}
+.input-text{
+  width:50%;
+  height: 20px;
+  border-bottom: 2px solid #A2A378;
+}
+.input-text:focus{
+  width:60%;
+  height: 30px;
+  border-bottom: 2px solid #A2A378;
+}
+
+.hasil-content{
+  width: 50%;
+  margin: auto;
+  background-color: #E5F9DB;
+  padding: 25px;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #83764F;
+    color: white;
+    text-align: center;
+}
+p{
+  color:  #83764F ;
+}
+#reset{
+  background-color: #A0D8B3;
+  color: white;
+}
+.owner{
+  color: white;
+}
+#konsultasi{
+  color: white;
+  background-color: #A2A378 ;
+  border-color: #A2A378 ;
+}
+#registrasi{
+  color: white;
+  background-color: #A2A378 ;
+  border-color: #A2A378 ;
+}
